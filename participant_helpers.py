@@ -144,3 +144,10 @@ prde_dict = {'>L===': ['Cpl-1', 'these'],
             }
 
 prde_set = {'Cpl-1', 'Cpl-2', 'Csg', 'Fsg', 'Fsg-1', 'Fsg-2', 'Fsg-3', 'Msg', 'Msg-1'}
+
+
+'''
+This set contains all unique possible forms of pgn, suffix, prs, prps and prde.
+'''
+
+all_pgn_set = {'Cpl-1', 'P2Msg', 'Msg-1', 'UUU', 'P2Fpl', 'Msg', 'P3Fsg', 'P1Cpl', 'P2Fsg', 'UFsg', 'P3Msg', 'Fsg-1', 'Cpl-2', 'Csg', 'Fsg', 'P1Csg', 'P2Mpl', 'Fsg-3', 'Fsg-2', 'UMpl', 'P3Fpl', 'P3Mpl', 'UFpl', 'UMsg', 'P3Cpl'}
